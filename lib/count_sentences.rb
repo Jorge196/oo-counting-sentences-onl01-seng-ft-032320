@@ -17,11 +17,11 @@ class String
   end
 
   def count_sentences
-    self.count_sentences
+    
   end
 
-  "This, well, is a sentence. This is too! And so is this, I think? Woo...".split 
 
-    end
+
+
   end
 end
